@@ -1,0 +1,11 @@
+git init iniciar
+
+git status el estado
+
+git add para agregar algo
+
+git commit
+
+git log --oneline
+
+git remote -v
